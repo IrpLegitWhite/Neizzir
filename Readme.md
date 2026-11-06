@@ -38,3 +38,4 @@
 - IDA Pro / Ghidra (нативный анализ)
 
 Пока нейzzir 🤡
+revers by benzo squad
